@@ -112,6 +112,7 @@
   "gitlens.codeLens.authors.enabled": false,
   "editor.tabSize": 2,
   "security.workspace.trust.untrustedFiles": "newWindow",
+  "json.validate.enable": false,
   "files.exclude": {
     "**\/CVS": true,
     "**\/.DS_Store": true,
