@@ -74,6 +74,10 @@ alias gcm="npx git-cz"
 alias gpush="git push origin HEAD"
 alias yd="yarn dev"
 alias ys="yarn start"
+alias zsh_history_fix="cd ~ && mv .zsh_history .zsh_history_bad && strings -eS .zsh_history_bad > .zsh_history && fc -R .zsh_history"
+alias dowcode="wget 'https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64' -O /tmp/code_latest_amd64.deb"
+alias attcode="sudo dpkg -i /tmp/code_latest_amd64.deb"
+alias killchrome="killall chrome"
 
 # Config
 export NVM_DIR="$HOME/.nvm"
