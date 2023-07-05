@@ -141,13 +141,4 @@
   "window.commandCenter": true,
   "git.openRepositoryInParentFolders": "always",
   "window.zoomLevel": 1,
-  "background.windowBackgrounds": [
-    "/home/cleber/Downloads/5ff72dc1c395f2982f3050690804e2e2.jpg"
-  ],
-  "background.backgroundOpacity": [
-    0.98,
-    0.9,
-    0.9,
-    0.9
-  ]
 }
